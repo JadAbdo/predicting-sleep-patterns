@@ -29,5 +29,9 @@ To run the project, you'll need the following libraries:
 - pandas
 - scikit-learn
 
+# Instructions
+For an example of loading the model, preprocessing the data, and predicting values, refer to "Predicting Sleep Patterns - Jupyter Notebook.ipynb". The functions and classes provided in the "Functions & Classes.py" file are present directly in the notebook.
+Download the data file "student_sleep_patterns.csv" and replace the file path in the notebook.
+
 # Evaluation
 The model's performance is evaluated using the absolute percentage difference between the predicted and true sleep durations. Lower percentage differences indicate better model accuracy.
